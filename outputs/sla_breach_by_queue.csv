@@ -1,0 +1,6 @@
+queue,total_requests,open_requests,breached_requests,open_and_overdue,breach_rate_pct,avg_hours_to_resolve
+payments,2744,157,878,112,32.0,22.1
+access,444,21,120,19,27.0,6.0
+fraud_desk,334,10,90,8,26.9,11.7
+servicing,1048,92,233,37,22.2,51.2
+disputes,430,17,88,11,20.5,14.9
